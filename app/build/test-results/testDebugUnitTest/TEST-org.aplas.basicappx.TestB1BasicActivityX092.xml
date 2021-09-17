@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.aplas.basicappx.TestB1BasicActivityX092" tests="2" skipped="0" failures="0" errors="0" timestamp="2021-09-17T17:33:18" hostname="DESKTOP-KLA5Q8G" time="20.487">
+  <properties/>
+  <testcase name="check_01_ImageView_Properties" classname="org.aplas.basicappx.TestB1BasicActivityX092" time="18.966"/>
+  <testcase name="check_02_FormulaBox_Event" classname="org.aplas.basicappx.TestB1BasicActivityX092" time="1.521"/>
+  <system-out><![CDATA[[Robolectric] org.aplas.basicappx.TestB1BasicActivityX092.check_01_ImageView_Properties: sdk=28; resources=BINARY
+Called loadFromPath(/system/framework/framework-res.apk, true); mode=binary sdk=28
+[Robolectric] org.aplas.basicappx.TestB1BasicActivityX092.check_02_FormulaBox_Event: sdk=28; resources=BINARY
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
